@@ -6,7 +6,7 @@
 - [ ] Data Transfer Objects
 - [ ] Relations (One to many) and all that
 - [ ] Authorization (Login)
-- [ ] Authentication
+- [ ] Authentication (Tokens)
 - [ ] Hosting
 
 ## How to build
